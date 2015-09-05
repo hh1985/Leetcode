@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best Time to Buy and Sell Stock IV", "Best Time to Buy and Sell Stock IV\Best Time to Buy and Sell Stock IV.vcxproj", "{D422ABBA-2FEB-4CCE-AC0F-845282960AC8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntegertoEnglishWords", "IntegertoEnglishWords\IntegertoEnglishWords.vcxproj", "{11F09DC2-A17E-41A6-89F8-846DA41075ED}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Integer to English Words", "Integer to English Words\Integer to English Words.vcxproj", "{11F09DC2-A17E-41A6-89F8-846DA41075ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
